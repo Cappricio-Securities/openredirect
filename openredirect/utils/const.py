@@ -12,7 +12,7 @@
 
 
 class Data:
-    blog = 'https://blogs.cappriciosec.com/blog/137/Open Redirect'
+    blog = 'https://blogs.cappriciosec.com/blog/143/Open Redirect'
     api = 'https://api.cappriciosec.com/Telegram/cappriciosecbot.php'
     config_path = '~/.config/cappriciosec-tools/cappriciosec.yaml'
     payloadurl = 'https://raw.githubusercontent.com/Cappricio-Securities/PayloadAllTheThings/main/openredirect.txt'
